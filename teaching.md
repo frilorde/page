@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Teaching
 ---
 
-# Research
+# Teaching
