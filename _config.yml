@@ -3,4 +3,5 @@ author: Friedrich Lorenz
 email: Friedrich.Lorenz@wiwi.uni-muenster.de
 description: > # this means to ignore newlines until "baseurl:"
   Homepage of Friedrich Lorenz.
+baseurl: /project-name
 markdown: kramdown
