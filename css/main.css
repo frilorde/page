@@ -17,7 +17,7 @@ h2 {
   padding: 80px;
   text-align: center;
   background-image: url(cv/IMG_8625.jpg);;
-  color: white;
+  background-repeat: no-repeat;
 }
 
 /* Increase the font size of the heading */
