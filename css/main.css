@@ -8,6 +8,10 @@ body {
   margin: 0;
 }
 
+h2 {
+  margin-bottom: 0px;
+}
+
 /* Header/logo Title */
 .header {
   padding: 80px;
