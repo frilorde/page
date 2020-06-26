@@ -1,8 +1,8 @@
 ---
-title: This will be used as the title-tag of the page head
+title: CV
 ---
 
-hello
+CV
 =====
 
-**You are here!**
+[My CV](cv_Friedrich_Lorenz.pdf)
